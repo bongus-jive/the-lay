@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "potato", "count" : 1 }
+  ],
+  "output" : { "item" : "pat_thelay", "count" : 1 },
+  "groups" : [ "plain", "all" ]
+}

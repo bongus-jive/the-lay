@@ -1,0 +1,41 @@
+{
+  "globalTagDefaults" : {},
+
+  "animatedParts" : {
+    "stateTypes" : {
+      "chip" : {
+        "default" : "h",
+        "states" : {
+          "h" : {
+            "frames" : 39,
+            "cycle" : 1,
+            "mode" : "loop"
+          }
+        }
+			}
+		},
+
+    "parts" : {
+      "chip" : {
+        "properties" : {
+          "centered" : true,
+          "offset" : [0, 35],
+          "transformationGroups" : ["chip"]
+        },
+        "partStates" : {
+          "chip" : {
+            "h" : {
+              "properties" : {
+                "image" : "<partImage>:<frame>"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+
+  "transformationGroups" : {
+    "chip" : {}
+  }
+}

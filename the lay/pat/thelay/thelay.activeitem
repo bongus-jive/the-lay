@@ -1,0 +1,36 @@
+{
+  "itemName" : "pat_thelay",
+  "shortdescription" : "^#F1E532;the lay^white;",
+  "description" : "",
+  "price" : 0,
+  "maxStack" : 1,
+  "rarity" : "Essential",
+  "category" : "generic",
+	"tooltipFields" : {"subtitle" : "chip"},
+  "twoHanded" : false,
+	
+  "inventoryIcon" : "thelay.png:36",
+	
+	"animation": "chip.animation",
+  "animationParts" : {
+    "chip" : "thelay.png"
+  },
+	"animationCustom" : {
+		"animatedParts" : {
+			"stateTypes" : {
+				"chip" : {
+					"default" : "h",
+					"states" : {
+						"h" : {
+							"frames" : 39,
+							"cycle" : 3.12,
+							"mode" : "loop"
+						}
+					}
+				}
+			}
+		}
+	},
+	
+  "scripts" : ["chip.lua"]
+}
