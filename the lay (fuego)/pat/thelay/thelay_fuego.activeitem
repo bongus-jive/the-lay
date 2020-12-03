@@ -1,0 +1,37 @@
+{
+  "itemName" : "pat_thelay_fuego",
+  "shortdescription" : "^#EF5E06;the lay (fuego)^white;",
+  "description" : "",
+  "price" : 0,
+  "maxStack" : 1,
+  "rarity" : "Essential",
+  "category" : "generic",
+	"tooltipFields" : {"subtitle" : "chip"},
+  "twoHanded" : false,
+	
+  "inventoryIcon" : "thelay_fuego.png:36",
+	
+	"animation": "chip.animation",
+  "animationParts" : {
+    "chip" : "thelay_fuego.png"
+  },
+	"animationCustom" : {
+		"animatedParts" : {
+			"stateTypes" : {
+				"chip" : {
+					"default" : "h",
+					"states" : {
+						"h" : {
+							"frames" : 39,
+							"cycle" : 0.78,
+							"mode" : "loop"
+						}
+					}
+				}
+			}
+		}
+	},
+	
+  "scripts" : ["chip.lua"],
+	"speed" : 2
+}
