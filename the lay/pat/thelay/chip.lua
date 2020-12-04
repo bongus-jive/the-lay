@@ -13,4 +13,8 @@ function update(dt)
 	animator.resetTransformationGroup("chip")
 	animator.scaleTransformationGroup("chip", 0.025)
 	animator.translateTransformationGroup("chip", {0, util.easeInOutSin(math.abs(ratio), -0.25, 0.25)})
+	
+	for i = 2, 1000 do
+		animator.setPartTag("chip"..i, "vis", (i <= item.count() and "" or "?multiply=0000"))
+	end
 end

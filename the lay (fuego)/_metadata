@@ -1,9 +1,9 @@
 {
-  "version" : "2020.12.03.b",
+  "version" : "2020.12.03.c",
   "author" : "patman",
   "tags" : "Cheats and God Items",
   "requires" : ["thelay"],
-  "description" : "adds the lay (fuego)\n\nmake at hand\n\n[url=https://discord.gg/GdsQSgV][img]https://i.imgur.com/xVfcRRH.gif[/img][/url]\n[url=https://www.patreon.com/pathiccstar][img]https://i.imgur.com/uyG8oTa.gif[/img][/url]",
+  "description" : "adds the lay (fuego)\nstacks up to 1000\n\nmake at hand\n\n[url=https://discord.gg/GdsQSgV][img]https://i.imgur.com/xVfcRRH.gif[/img][/url]\n[url=https://www.patreon.com/pathiccstar][img]https://i.imgur.com/uyG8oTa.gif[/img][/url]",
   "name" : "thelay_fuego",
   "friendlyName" : "the lay (fuego)",
   "steamContentId" : "2307905305",

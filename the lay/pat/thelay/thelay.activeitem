@@ -3,7 +3,7 @@
   "shortdescription" : "^#F1E532;the lay^white;",
   "description" : "",
   "price" : 0,
-  "maxStack" : 1,
+  "maxStack" : 1000,
   "rarity" : "Essential",
   "category" : "generic",
 	"tooltipFields" : {"subtitle" : "chip"},
@@ -12,10 +12,10 @@
   "inventoryIcon" : "thelay.png:36",
 	
 	"animation": "chip.animation",
-  "animationParts" : {
-    "chip" : "thelay.png"
-  },
 	"animationCustom" : {
+		"globalTagDefaults" : {
+			"chip" : "thelay.png"
+		},
 		"animatedParts" : {
 			"stateTypes" : {
 				"chip" : {

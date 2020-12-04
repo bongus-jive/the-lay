@@ -3,7 +3,7 @@
   "shortdescription" : "^#EF5E06;the lay (fuego)^white;",
   "description" : "",
   "price" : 0,
-  "maxStack" : 1,
+  "maxStack" : 1000,
   "rarity" : "Essential",
   "category" : "generic",
 	"tooltipFields" : {"subtitle" : "chip"},
@@ -12,10 +12,10 @@
   "inventoryIcon" : "thelay_fuego.png:36",
 	
 	"animation": "chip.animation",
-  "animationParts" : {
-    "chip" : "thelay_fuego.png"
-  },
 	"animationCustom" : {
+		"globalTagDefaults" : {
+			"chip" : "thelay_fuego.png"
+		},
 		"animatedParts" : {
 			"stateTypes" : {
 				"chip" : {
