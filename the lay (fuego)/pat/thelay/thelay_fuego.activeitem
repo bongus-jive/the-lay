@@ -3,7 +3,7 @@
   "shortdescription" : "^#EF5E06;the lay (fuego)^white;",
   "description" : "",
   "price" : 0,
-  "maxStack" : 1000,
+  "maxStack" : 100,
   "rarity" : "Essential",
   "category" : "generic",
 	"tooltipFields" : {"subtitle" : "chip"},
