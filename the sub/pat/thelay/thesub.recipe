@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "bread", "count" : 1 },
+    { "item" : "cheese", "count" : 1 },
+    { "item" : "tomato", "count" : 1 },
+    { "item" : "cookedbacon", "count" : 1 }
+  ],
+  "output" : { "item" : "pat_thesub", "count" : 1 },
+  "groups" : [ "plain", "all" ]
+}

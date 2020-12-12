@@ -1,0 +1,39 @@
+{
+  "itemName" : "pat_thesub",
+  "shortdescription" : "^#69FF7A;the sub^white;",
+  "description" : "",
+  "price" : 0,
+  "maxStack" : 1,
+  "rarity" : "Essential",
+  "category" : "generic",
+	"tooltipFields" : {"subtitle" : "sand which"},
+  "twoHanded" : false,
+	
+  "inventoryIcon" : "thesub.png:25",
+	
+	"animation": "chip.animation",
+	"animationCustom" : {
+		"globalTagDefaults" : {
+			"chip" : "thesub.png"
+		},
+		"animatedParts" : {
+			"stateTypes" : {
+				"chip" : {
+					"default" : "h",
+					"states" : {
+						"h" : {
+							"frames" : 126,
+							"cycle" : 2.52,
+							"mode" : "loop"
+						}
+					}
+				}
+			}
+		}
+	},
+	
+  "scripts" : ["chip.lua"],
+	"speed" : 0.75,
+	"scale" : 0.0275,
+	"stack" : false
+}
