@@ -1,0 +1,140 @@
+{
+	"globalTagDefaults" : {
+		"lay" : "thelay.png",
+		"fuego" : "thelay_fuego.png",
+		"sub" : "thesub.png",
+		"soder" : "thesoder.png"
+	},
+
+	"transformationGroups" : {
+		"lay" : {},
+		"lay2" : {},
+		"fuego" : {},
+		"sub" : {},
+		"soder" : {}
+	},
+
+  "animatedParts" : {
+    "stateTypes" : {
+      "lay" : {
+        "default" : "h",
+        "states" : {
+          "h" : {
+            "frames" : 39,
+            "cycle" : 3.12,
+            "mode" : "loop"
+          }
+        }
+			},
+			"fuego" : {
+				"default" : "h",
+				"states" : {
+					"h" : {
+						"frames" : 39,
+						"cycle" : 0.78,
+						"mode" : "loop"
+					}
+				}
+			},
+			"sub" : {
+				"default" : "h",
+				"states" : {
+					"h" : {
+						"frames" : 126,
+						"cycle" : 2.52,
+						"mode" : "loop"
+					}
+				}
+			},
+			"soder" : {
+				"default" : "h",
+				"states" : {
+					"h" : {
+						"frames" : 48,
+						"cycle" : 1.92,
+						"mode" : "loop"
+					}
+				}
+			}
+		},
+
+    "parts" : {
+      "lay_1" : {
+        "properties" : {
+					"zLevel" : 0,
+          "centered" : true,
+          "offset" : [-20, 30],
+          "transformationGroups" : ["lay"]
+        },
+        "partStates" : {"lay" : {"h" : {"properties" : {"image" : "<lay>:<frame>"}}}}
+      },
+      "lay_2" : {
+        "properties" : {
+					"zLevel" : 1,
+          "centered" : true,
+          "offset" : [-20, 35],
+          "transformationGroups" : ["lay"]
+        },
+        "partStates" : {"lay" : {"h" : {"properties" : {"image" : "<lay>:<frame>"}}}}
+      },
+      "lay_3" : {
+        "properties" : {
+					"zLevel" : 2,
+          "centered" : true,
+          "offset" : [-20, 40],
+          "transformationGroups" : ["lay"]
+        },
+        "partStates" : {"lay" : {"h" : {"properties" : {"image" : "<lay>:<frame>"}}}}
+      },
+			
+      "sub" : {
+        "properties" : {
+					"zLevel" : 3,
+          "centered" : true,
+          "offset" : [0, 40],
+          "transformationGroups" : ["sub"]
+        },
+        "partStates" : {"sub" : {"h" : {"properties" : {"image" : "<sub>:<frame>"}}}}
+      },
+			
+      "fuego_1" : {
+        "properties" : {
+					"zLevel" : 4,
+          "centered" : true,
+          "offset" : [15, 30],
+          "transformationGroups" : ["fuego"]
+        },
+        "partStates" : {"fuego" : {"h" : {"properties" : {"image" : "<fuego>:<frame>"}}}}
+      },
+      "fuego_2" : {
+        "properties" : {
+					"zLevel" : 5,
+          "centered" : true,
+          "offset" : [15, 35],
+          "transformationGroups" : ["fuego"]
+        },
+        "partStates" : {"fuego" : {"h" : {"properties" : {"image" : "<fuego>:<frame>"}}}}
+      },
+			
+      "lay_4" : {
+        "properties" : {
+					"zLevel" : 0,
+          "centered" : true,
+          "offset" : [25, 10],
+          "transformationGroups" : ["lay2"]
+        },
+        "partStates" : {"lay" : {"h" : {"properties" : {"image" : "<lay>:<frame>?flipx"}}}}
+      },
+			
+      "soder" : {
+        "properties" : {
+					"zLevel" : 3,
+          "centered" : true,
+          "offset" : [17.5, 30],
+          "transformationGroups" : ["soder"]
+        },
+        "partStates" : {"soder" : {"h" : {"properties" : {"image" : "<soder>:<frame>"}}}}
+      }
+		}
+	}
+}

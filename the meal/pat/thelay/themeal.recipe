@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "pat_thelay", "count" : 4 },
+    { "item" : "pat_thelay_fuego", "count" : 2 },
+    { "item" : "pat_thesub", "count" : 1 },
+    { "item" : "pat_thesoder", "count" : 1 }
+  ],
+  "output" : { "item" : "pat_themeal", "count" : 1 },
+  "groups" : [ "plain", "all" ]
+}
