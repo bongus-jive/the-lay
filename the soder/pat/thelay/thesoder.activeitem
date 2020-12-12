@@ -1,0 +1,40 @@
+{
+  "itemName" : "pat_thesoder",
+  "shortdescription" : "^#428FFF;the soder^white;",
+  "description" : "",
+  "price" : 0,
+  "maxStack" : 1,
+  "rarity" : "Essential",
+  "category" : "generic",
+	"tooltipFields" : {"subtitle" : "drungle"},
+  "twoHanded" : false,
+	
+  "inventoryIcon" : "thesoder.png:42",
+	
+	"animation": "chip.animation",
+	"animationCustom" : {
+		"globalTagDefaults" : {
+			"chip" : "thesoder.png"
+		},
+		"animatedParts" : {
+			"stateTypes" : {
+				"chip" : {
+					"default" : "h",
+					"states" : {
+						"h" : {
+							"frames" : 48,
+							"cycle" : 1.92,
+							"mode" : "loop"
+						}
+					}
+				}
+			}
+		}
+	},
+	
+  "scripts" : ["chip.lua"],
+	"speed" : 1.25,
+	"scale" : 0.0475,
+	"hover" : [-0.6875, -0.1875],
+	"stack" : false
+}
