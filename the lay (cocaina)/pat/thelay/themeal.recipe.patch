@@ -1,0 +1,7 @@
+[
+	{
+		"op": "add",
+		"path": "/input/2",
+		"value": {"item" : "pat_thelay_cocaina", "count" : 1}
+	}
+]

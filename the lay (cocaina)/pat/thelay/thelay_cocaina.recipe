@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "potato", "count" : 1 },
+    { "item" : "fridge", "count" : 1 }
+  ],
+  "output" : { "item" : "pat_thelay_cocaina", "count" : 1 },
+  "groups" : [ "plain", "all" ]
+}

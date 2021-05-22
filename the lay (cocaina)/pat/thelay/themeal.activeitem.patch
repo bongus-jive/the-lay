@@ -1,0 +1,12 @@
+[
+	{
+		"op": "add",
+		"path": "/params/cocaina",
+		"value": {"speed": 0.5, "scale": 0.02, "hover": [-0.375, 0.25]}
+	},
+	{
+		"op": "add",
+		"path": "/inventoryIcon/-",
+		"value": {"image": "themeal_cocaina.png"}
+	}
+]

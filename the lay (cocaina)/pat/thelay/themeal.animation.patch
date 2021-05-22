@@ -1,0 +1,47 @@
+[
+  {
+    "op": "add",
+    "path": "/globalTagDefaults/cocaina",
+    "value": "thelay_cocaina.png"
+  },
+  {
+    "op": "add",
+    "path": "/transformationGroups/cocaina",
+    "value": {}
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/stateTypes/cocaina",
+    "value": {
+      "default": "h",
+      "states": {
+        "h": {
+          "frames": 39,
+					"cycle" : 1.56,
+          "mode": "loop"
+        }
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/cocaina",
+    "value": {
+      "properties": {
+        "zLevel": 5,
+        "centered": true,
+        "offset": [-12.5, 25],
+        "transformationGroups": ["cocaina"]
+      },
+      "partStates": {
+        "cocaina": {
+          "h": {
+            "properties": {
+              "image": "<cocaina>:<frame>"
+            }
+          }
+        }
+      }
+    }
+  }
+]

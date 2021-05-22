@@ -1,0 +1,37 @@
+{
+  "itemName" : "pat_thelay_cocaina",
+  "shortdescription" : "^thelay2;^#68D4FF;the lay (cocaina)^white;",
+  "description" : "",
+  "price" : 0,
+  "maxStack" : 100,
+  "rarity" : "Essential",
+  "category" : "generic",
+	"tooltipFields" : {"subtitle" : "chip"},
+  "twoHanded" : false,
+	
+  "inventoryIcon" : "thelay_cocaina.png:2",
+	
+	"animation": "chip.animation",
+	"animationCustom" : {
+		"globalTagDefaults" : {
+			"chip" : "thelay_cocaina.png"
+		},
+		"animatedParts" : {
+			"stateTypes" : {
+				"chip" : {
+					"default" : "h",
+					"states" : {
+						"h" : {
+							"frames" : 39,
+							"cycle" : 1.56,
+							"mode" : "loop"
+						}
+					}
+				}
+			}
+		}
+	},
+	
+  "scripts" : ["chip.lua"],
+	"speed" : 0.5
+}
