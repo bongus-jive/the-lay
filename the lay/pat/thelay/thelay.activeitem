@@ -1,6 +1,6 @@
 {
   "itemName" : "pat_thelay",
-  "shortdescription" : "^#F1E532;the lay^white;",
+  "shortdescription" : "^thelay0;^#F1E532;the lay^white;",
   "description" : "",
   "price" : 0,
   "maxStack" : 100,

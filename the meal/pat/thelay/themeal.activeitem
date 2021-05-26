@@ -1,6 +1,6 @@
 {
   "itemName" : "pat_themeal",
-  "shortdescription" : "^#DA4DEA;The Meal^white;",
+  "shortdescription" : "^thelay5;^#DA4DEA;The Meal^white;",
   "description" : "",
   "price" : 0,
   "maxStack" : 1,
@@ -9,7 +9,7 @@
 	"tooltipFields" : {"subtitle" : "el comida"},
   "twoHanded" : false,
 	
-  "inventoryIcon" : "themeal.png",
+  "inventoryIcon" : [{"image": "themeal.png"}],
 	
 	"animation": "themeal.animation",
 	
