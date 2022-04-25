@@ -6,5 +6,5 @@
     { "item" : "cookedbacon", "count" : 1 }
   ],
   "output" : { "item" : "pat_thesub", "count" : 1 },
-  "groups" : [ "plain", "all" ]
+  "groups" : [ "craftingfood", "sides" ]
 }

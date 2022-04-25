@@ -4,5 +4,5 @@
     { "item" : "chili", "count" : 1 }
   ],
   "output" : { "item" : "pat_thelay_fuego", "count" : 1 },
-  "groups" : [ "plain", "all" ]
+  "groups" : [ "craftingfood", "snacks" ]
 }
