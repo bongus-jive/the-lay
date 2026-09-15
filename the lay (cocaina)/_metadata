@@ -1,12 +1,12 @@
 {
   "version" : "2022.04.22.a",
-  "tags" : "Cheats and God Items",
   "author" : "patman",
+  "tags" : "Cheats and God Items",
   "description" : "adds the lay (cocaina)\nstacks up to 100\n\nmake at hand\n\nis also added to The Meal (el comida)\n\n[url=https://discord.gg/GdsQSgV][img]https://i.imgur.com/wXjYMqP.gif[/img][/url]\n[url=https://www.patreon.com/pathiccstar][img]https://i.imgur.com/uyG8oTa.gif[/img][/url]",
-  "requires" : ["thelay"],
   "name" : "thelay_cocaina",
   "friendlyName" : "the lay (cocaina)",
   "steamContentId" : "2493972732",
   "link" : "steam://url/CommunityFilePage/2493972732",
+  "requires" : ["thelay"],
   "includes" : ["themeal"]
 }

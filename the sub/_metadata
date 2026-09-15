@@ -1,9 +1,11 @@
 {
   "version" : "2022.04.22.a",
   "author" : "patman",
+  "tags" : "Cheats and God Items",
   "description" : "adds the sub\n\nmake at hand\n\n[url=https://discord.gg/GdsQSgV][img]https://i.imgur.com/xVfcRRH.gif[/img][/url]\n[url=https://www.patreon.com/pathiccstar][img]https://i.imgur.com/uyG8oTa.gif[/img][/url]",
   "name" : "thesub",
   "friendlyName" : "the sub",
   "steamContentId" : "2318441620",
-  "link" : "steam://url/CommunityFilePage/2318441620"
+  "link" : "steam://url/CommunityFilePage/2318441620",
+  "requires" : ["thelay"]
 }

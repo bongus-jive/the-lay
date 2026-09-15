@@ -1,9 +1,11 @@
 {
   "version" : "2022.04.22.a",
   "author" : "patman",
+  "tags" : "Cheats and God Items",
   "description" : "el comida\n\n[url=https://discord.gg/GdsQSgV][img]https://i.imgur.com/xVfcRRH.gif[/img][/url]\n[url=https://www.patreon.com/pathiccstar][img]https://i.imgur.com/uyG8oTa.gif[/img][/url]",
   "name" : "themeal",
   "friendlyName" : "the meal",
   "steamContentId" : "2318481522",
-  "link" : "steam://url/CommunityFilePage/2318481522"
+  "link" : "steam://url/CommunityFilePage/2318481522",
+  "requires" : ["thelay", "thelay_fuego", "thesoder", "thesub"]
 }
