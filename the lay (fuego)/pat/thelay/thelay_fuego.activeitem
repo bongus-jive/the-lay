@@ -1,6 +1,6 @@
 {
   "itemName" : "pat_thelay_fuego",
-  "shortdescription" : "^thelay1;^#EF5E06;the lay (fuego)^white;",
+  "shortdescription" : "^#EF5E06;the lay (fuego)^white;",
   "description" : "",
   "price" : 0,
   "maxStack" : 100,

@@ -1,6 +1,6 @@
 {
   "itemName" : "pat_themeal",
-  "shortdescription" : "^thelay5;^#DA4DEA;The Meal^white;",
+  "shortdescription" : "^#DA4DEA;The Meal^white;",
   "description" : "",
   "price" : 0,
   "maxStack" : 1,

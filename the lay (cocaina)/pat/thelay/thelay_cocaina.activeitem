@@ -1,6 +1,6 @@
 {
   "itemName" : "pat_thelay_cocaina",
-  "shortdescription" : "^thelay2;^#68D4FF;the lay (cocaina)^white;",
+  "shortdescription" : "^#68D4FF;the lay (cocaina)^white;",
   "description" : "",
   "price" : 0,
   "maxStack" : 100,

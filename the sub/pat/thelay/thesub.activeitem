@@ -1,6 +1,6 @@
 {
   "itemName" : "pat_thesub",
-  "shortdescription" : "^thelay3;^#69FF7A;the sub^white;",
+  "shortdescription" : "^#69FF7A;the sub^white;",
   "description" : "",
   "price" : 0,
   "maxStack" : 1,
