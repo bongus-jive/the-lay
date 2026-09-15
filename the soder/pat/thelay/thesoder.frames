@@ -2,9 +2,5 @@
   "frameGrid" : {
     "size" : [256, 256],
     "dimensions" : [8, 6]
-  },
-	
-	"aliases" : {
-		"48" : "0"
-	}
+  }
 }

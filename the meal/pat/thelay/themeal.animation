@@ -66,7 +66,7 @@
           "offset" : [-20, 30],
           "transformationGroups" : ["lay"]
         },
-        "partStates" : {"lay" : {"h" : {"properties" : {"image" : "<lay>:<frame>"}}}}
+        "partStates" : {"lay" : {"h" : {"properties" : {"image" : "<lay>:<frameIndex>"}}}}
       },
       "lay_2" : {
         "properties" : {
@@ -75,7 +75,7 @@
           "offset" : [-20, 35],
           "transformationGroups" : ["lay"]
         },
-        "partStates" : {"lay" : {"h" : {"properties" : {"image" : "<lay>:<frame>"}}}}
+        "partStates" : {"lay" : {"h" : {"properties" : {"image" : "<lay>:<frameIndex>"}}}}
       },
       "lay_3" : {
         "properties" : {
@@ -84,7 +84,7 @@
           "offset" : [-20, 40],
           "transformationGroups" : ["lay"]
         },
-        "partStates" : {"lay" : {"h" : {"properties" : {"image" : "<lay>:<frame>"}}}}
+        "partStates" : {"lay" : {"h" : {"properties" : {"image" : "<lay>:<frameIndex>"}}}}
       },
 			
       "sub" : {
@@ -94,7 +94,7 @@
           "offset" : [0, 40],
           "transformationGroups" : ["sub"]
         },
-        "partStates" : {"sub" : {"h" : {"properties" : {"image" : "<sub>:<frame>"}}}}
+        "partStates" : {"sub" : {"h" : {"properties" : {"image" : "<sub>:<frameIndex>"}}}}
       },
 			
       "fuego_1" : {
@@ -104,7 +104,7 @@
           "offset" : [15, 30],
           "transformationGroups" : ["fuego"]
         },
-        "partStates" : {"fuego" : {"h" : {"properties" : {"image" : "<fuego>:<frame>"}}}}
+        "partStates" : {"fuego" : {"h" : {"properties" : {"image" : "<fuego>:<frameIndex>"}}}}
       },
       "fuego_2" : {
         "properties" : {
@@ -113,7 +113,7 @@
           "offset" : [15, 35],
           "transformationGroups" : ["fuego"]
         },
-        "partStates" : {"fuego" : {"h" : {"properties" : {"image" : "<fuego>:<frame>"}}}}
+        "partStates" : {"fuego" : {"h" : {"properties" : {"image" : "<fuego>:<frameIndex>"}}}}
       },
 			
       "lay_4" : {
@@ -123,7 +123,7 @@
           "offset" : [25, 10],
           "transformationGroups" : ["lay2"]
         },
-        "partStates" : {"lay" : {"h" : {"properties" : {"image" : "<lay>:<frame>?flipx"}}}}
+        "partStates" : {"lay" : {"h" : {"properties" : {"image" : "<lay>:<frameIndex>?flipx"}}}}
       },
 			
       "soder" : {
@@ -133,7 +133,7 @@
           "offset" : [17.5, 30],
           "transformationGroups" : ["soder"]
         },
-        "partStates" : {"soder" : {"h" : {"properties" : {"image" : "<soder>:<frame>"}}}}
+        "partStates" : {"soder" : {"h" : {"properties" : {"image" : "<soder>:<frameIndex>"}}}}
       }
 		}
 	}

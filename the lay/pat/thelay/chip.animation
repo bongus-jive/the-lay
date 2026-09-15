@@ -29,7 +29,7 @@
           "offset" : [0, 35],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex>"}}}}
       },
      "chip2" : {
         "properties" : {
@@ -38,7 +38,7 @@
           "offset" : [0, 40],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip3" : {
         "properties" : {
@@ -47,7 +47,7 @@
           "offset" : [0, 45],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip4" : {
         "properties" : {
@@ -56,7 +56,7 @@
           "offset" : [0, 50],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip5" : {
         "properties" : {
@@ -65,7 +65,7 @@
           "offset" : [0, 55],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip6" : {
         "properties" : {
@@ -74,7 +74,7 @@
           "offset" : [0, 60],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip7" : {
         "properties" : {
@@ -83,7 +83,7 @@
           "offset" : [0, 65],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip8" : {
         "properties" : {
@@ -92,7 +92,7 @@
           "offset" : [0, 70],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip9" : {
         "properties" : {
@@ -101,7 +101,7 @@
           "offset" : [0, 75],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip10" : {
         "properties" : {
@@ -110,7 +110,7 @@
           "offset" : [0, 80],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip11" : {
         "properties" : {
@@ -119,7 +119,7 @@
           "offset" : [0, 85],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip12" : {
         "properties" : {
@@ -128,7 +128,7 @@
           "offset" : [0, 90],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip13" : {
         "properties" : {
@@ -137,7 +137,7 @@
           "offset" : [0, 95],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip14" : {
         "properties" : {
@@ -146,7 +146,7 @@
           "offset" : [0, 100],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip15" : {
         "properties" : {
@@ -155,7 +155,7 @@
           "offset" : [0, 105],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip16" : {
         "properties" : {
@@ -164,7 +164,7 @@
           "offset" : [0, 110],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip17" : {
         "properties" : {
@@ -173,7 +173,7 @@
           "offset" : [0, 115],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip18" : {
         "properties" : {
@@ -182,7 +182,7 @@
           "offset" : [0, 120],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip19" : {
         "properties" : {
@@ -191,7 +191,7 @@
           "offset" : [0, 125],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip20" : {
         "properties" : {
@@ -200,7 +200,7 @@
           "offset" : [0, 130],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip21" : {
         "properties" : {
@@ -209,7 +209,7 @@
           "offset" : [0, 135],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip22" : {
         "properties" : {
@@ -218,7 +218,7 @@
           "offset" : [0, 140],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip23" : {
         "properties" : {
@@ -227,7 +227,7 @@
           "offset" : [0, 145],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip24" : {
         "properties" : {
@@ -236,7 +236,7 @@
           "offset" : [0, 150],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip25" : {
         "properties" : {
@@ -245,7 +245,7 @@
           "offset" : [0, 155],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip26" : {
         "properties" : {
@@ -254,7 +254,7 @@
           "offset" : [0, 160],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip27" : {
         "properties" : {
@@ -263,7 +263,7 @@
           "offset" : [0, 165],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip28" : {
         "properties" : {
@@ -272,7 +272,7 @@
           "offset" : [0, 170],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip29" : {
         "properties" : {
@@ -281,7 +281,7 @@
           "offset" : [0, 175],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip30" : {
         "properties" : {
@@ -290,7 +290,7 @@
           "offset" : [0, 180],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip31" : {
         "properties" : {
@@ -299,7 +299,7 @@
           "offset" : [0, 185],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip32" : {
         "properties" : {
@@ -308,7 +308,7 @@
           "offset" : [0, 190],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip33" : {
         "properties" : {
@@ -317,7 +317,7 @@
           "offset" : [0, 195],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip34" : {
         "properties" : {
@@ -326,7 +326,7 @@
           "offset" : [0, 200],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip35" : {
         "properties" : {
@@ -335,7 +335,7 @@
           "offset" : [0, 205],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip36" : {
         "properties" : {
@@ -344,7 +344,7 @@
           "offset" : [0, 210],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip37" : {
         "properties" : {
@@ -353,7 +353,7 @@
           "offset" : [0, 215],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip38" : {
         "properties" : {
@@ -362,7 +362,7 @@
           "offset" : [0, 220],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip39" : {
         "properties" : {
@@ -371,7 +371,7 @@
           "offset" : [0, 225],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip40" : {
         "properties" : {
@@ -380,7 +380,7 @@
           "offset" : [0, 230],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip41" : {
         "properties" : {
@@ -389,7 +389,7 @@
           "offset" : [0, 235],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip42" : {
         "properties" : {
@@ -398,7 +398,7 @@
           "offset" : [0, 240],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip43" : {
         "properties" : {
@@ -407,7 +407,7 @@
           "offset" : [0, 245],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip44" : {
         "properties" : {
@@ -416,7 +416,7 @@
           "offset" : [0, 250],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip45" : {
         "properties" : {
@@ -425,7 +425,7 @@
           "offset" : [0, 255],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip46" : {
         "properties" : {
@@ -434,7 +434,7 @@
           "offset" : [0, 260],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip47" : {
         "properties" : {
@@ -443,7 +443,7 @@
           "offset" : [0, 265],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip48" : {
         "properties" : {
@@ -452,7 +452,7 @@
           "offset" : [0, 270],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip49" : {
         "properties" : {
@@ -461,7 +461,7 @@
           "offset" : [0, 275],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip50" : {
         "properties" : {
@@ -470,7 +470,7 @@
           "offset" : [0, 280],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip51" : {
         "properties" : {
@@ -479,7 +479,7 @@
           "offset" : [0, 285],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip52" : {
         "properties" : {
@@ -488,7 +488,7 @@
           "offset" : [0, 290],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip53" : {
         "properties" : {
@@ -497,7 +497,7 @@
           "offset" : [0, 295],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip54" : {
         "properties" : {
@@ -506,7 +506,7 @@
           "offset" : [0, 300],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip55" : {
         "properties" : {
@@ -515,7 +515,7 @@
           "offset" : [0, 305],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip56" : {
         "properties" : {
@@ -524,7 +524,7 @@
           "offset" : [0, 310],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip57" : {
         "properties" : {
@@ -533,7 +533,7 @@
           "offset" : [0, 315],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip58" : {
         "properties" : {
@@ -542,7 +542,7 @@
           "offset" : [0, 320],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip59" : {
         "properties" : {
@@ -551,7 +551,7 @@
           "offset" : [0, 325],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip60" : {
         "properties" : {
@@ -560,7 +560,7 @@
           "offset" : [0, 330],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip61" : {
         "properties" : {
@@ -569,7 +569,7 @@
           "offset" : [0, 335],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip62" : {
         "properties" : {
@@ -578,7 +578,7 @@
           "offset" : [0, 340],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip63" : {
         "properties" : {
@@ -587,7 +587,7 @@
           "offset" : [0, 345],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip64" : {
         "properties" : {
@@ -596,7 +596,7 @@
           "offset" : [0, 350],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip65" : {
         "properties" : {
@@ -605,7 +605,7 @@
           "offset" : [0, 355],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip66" : {
         "properties" : {
@@ -614,7 +614,7 @@
           "offset" : [0, 360],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip67" : {
         "properties" : {
@@ -623,7 +623,7 @@
           "offset" : [0, 365],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip68" : {
         "properties" : {
@@ -632,7 +632,7 @@
           "offset" : [0, 370],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip69" : {
         "properties" : {
@@ -641,7 +641,7 @@
           "offset" : [0, 375],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip70" : {
         "properties" : {
@@ -650,7 +650,7 @@
           "offset" : [0, 380],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip71" : {
         "properties" : {
@@ -659,7 +659,7 @@
           "offset" : [0, 385],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip72" : {
         "properties" : {
@@ -668,7 +668,7 @@
           "offset" : [0, 390],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip73" : {
         "properties" : {
@@ -677,7 +677,7 @@
           "offset" : [0, 395],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip74" : {
         "properties" : {
@@ -686,7 +686,7 @@
           "offset" : [0, 400],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip75" : {
         "properties" : {
@@ -695,7 +695,7 @@
           "offset" : [0, 405],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip76" : {
         "properties" : {
@@ -704,7 +704,7 @@
           "offset" : [0, 410],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip77" : {
         "properties" : {
@@ -713,7 +713,7 @@
           "offset" : [0, 415],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip78" : {
         "properties" : {
@@ -722,7 +722,7 @@
           "offset" : [0, 420],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip79" : {
         "properties" : {
@@ -731,7 +731,7 @@
           "offset" : [0, 425],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip80" : {
         "properties" : {
@@ -740,7 +740,7 @@
           "offset" : [0, 430],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip81" : {
         "properties" : {
@@ -749,7 +749,7 @@
           "offset" : [0, 435],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip82" : {
         "properties" : {
@@ -758,7 +758,7 @@
           "offset" : [0, 440],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip83" : {
         "properties" : {
@@ -767,7 +767,7 @@
           "offset" : [0, 445],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip84" : {
         "properties" : {
@@ -776,7 +776,7 @@
           "offset" : [0, 450],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip85" : {
         "properties" : {
@@ -785,7 +785,7 @@
           "offset" : [0, 455],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip86" : {
         "properties" : {
@@ -794,7 +794,7 @@
           "offset" : [0, 460],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip87" : {
         "properties" : {
@@ -803,7 +803,7 @@
           "offset" : [0, 465],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip88" : {
         "properties" : {
@@ -812,7 +812,7 @@
           "offset" : [0, 470],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip89" : {
         "properties" : {
@@ -821,7 +821,7 @@
           "offset" : [0, 475],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip90" : {
         "properties" : {
@@ -830,7 +830,7 @@
           "offset" : [0, 480],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip91" : {
         "properties" : {
@@ -839,7 +839,7 @@
           "offset" : [0, 485],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip92" : {
         "properties" : {
@@ -848,7 +848,7 @@
           "offset" : [0, 490],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip93" : {
         "properties" : {
@@ -857,7 +857,7 @@
           "offset" : [0, 495],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip94" : {
         "properties" : {
@@ -866,7 +866,7 @@
           "offset" : [0, 500],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip95" : {
         "properties" : {
@@ -875,7 +875,7 @@
           "offset" : [0, 505],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip96" : {
         "properties" : {
@@ -884,7 +884,7 @@
           "offset" : [0, 510],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip97" : {
         "properties" : {
@@ -893,7 +893,7 @@
           "offset" : [0, 515],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip98" : {
         "properties" : {
@@ -902,7 +902,7 @@
           "offset" : [0, 520],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip99" : {
         "properties" : {
@@ -911,7 +911,7 @@
           "offset" : [0, 525],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       },
      "chip100" : {
         "properties" : {
@@ -920,7 +920,7 @@
           "offset" : [0, 530],
           "transformationGroups" : ["chip"]
         },
-        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frame><vis>"}}}}
+        "partStates" : {"chip" : {"h" : {"properties" : {"image" : "<chip>:<frameIndex><vis>"}}}}
       }
     }
   }
