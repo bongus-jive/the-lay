@@ -1,11 +1,12 @@
 {
-  "version" : "2022.04.22.a",
   "author" : "patman",
-  "tags" : "Cheats and God Items",
-  "description" : "adds the lay (fuego)\nstacks up to 100\n\nmake at hand\n\n[url=https://discord.gg/GdsQSgV][img]https://i.imgur.com/xVfcRRH.gif[/img][/url]\n[url=https://www.patreon.com/pathiccstar][img]https://i.imgur.com/uyG8oTa.gif[/img][/url]",
-  "name" : "thelay_fuego",
+  "description" : "adds the lay (fuego)\nstacks up to 100\n\nmake at cooking table\n",
   "friendlyName" : "the lay (fuego)",
-  "steamContentId" : "2307905305",
   "link" : "steam://url/CommunityFilePage/2307905305",
-  "requires" : ["thelay"]
+  "name" : "pat_thelay_fuego",
+  "requires" : ["pat_thelay"],
+  "steamContentId" : "2307905305",
+  "steamDescription" : "adds the lay (fuego)\nstacks up to 100\n\nmake at cooking table\n\n\njoin brongus drive:\nhttps://discord.gg/GdsQSgV\n\nview coder:\nhttps://github.com/bongus-jive/the-lay\n\ngive me money:\nhttps://www.patreon.com/pathiccstar - https://ko-fi.com/patmanf\n",
+  "tags" : "Cheats and God Items",
+  "version" : "2026.09.14.a"
 }

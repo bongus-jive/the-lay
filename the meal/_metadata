@@ -1,11 +1,12 @@
 {
-  "version" : "2022.04.22.a",
   "author" : "patman",
-  "tags" : "Cheats and God Items",
-  "description" : "el comida\n\n[url=https://discord.gg/GdsQSgV][img]https://i.imgur.com/xVfcRRH.gif[/img][/url]\n[url=https://www.patreon.com/pathiccstar][img]https://i.imgur.com/uyG8oTa.gif[/img][/url]",
-  "name" : "themeal",
+  "description" : "el comida\n\nmake at cooking table",
   "friendlyName" : "the meal",
-  "steamContentId" : "2318481522",
   "link" : "steam://url/CommunityFilePage/2318481522",
-  "requires" : ["thelay", "thelay_fuego", "thesoder", "thesub"]
+  "name" : "pat_themeal",
+  "requires" : ["pat_thelay", "pat_thelay_fuego", "pat_thesoder", "pat_thesub"],
+  "steamContentId" : "2318481522",
+  "steamDescription" : "el comida\n\nmake at cooking table\n\n\njoin brongus drive:\nhttps://discord.gg/GdsQSgV\n\nview coder:\nhttps://github.com/bongus-jive/the-lay\n\ngive me money:\nhttps://www.patreon.com/pathiccstar - https://ko-fi.com/patmanf",
+  "tags" : "Cheats and God Items",
+  "version" : "2026.09.14.a"
 }
