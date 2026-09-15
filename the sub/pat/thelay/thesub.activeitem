@@ -9,7 +9,7 @@
 	"tooltipFields" : {"subtitle" : "sand which"},
   "twoHanded" : false,
 	
-  "inventoryIcon" : "thesub.png:25",
+  "inventoryIcon" : "thesub.png:11",
 	
 	"animation": "chip.animation",
 	"animationCustom" : {
@@ -22,7 +22,7 @@
 					"default" : "h",
 					"states" : {
 						"h" : {
-							"frames" : 126,
+							"frames" : 63,
 							"cycle" : 2.52,
 							"mode" : "loop"
 						}
@@ -34,6 +34,7 @@
 	
   "scripts" : ["chip.lua"],
 	"speed" : 0.75,
-	"scale" : 0.0275,
+	"scale" : 0.042,
+	"hover" : [-0.875, 0.5],
 	"stack" : false
 }

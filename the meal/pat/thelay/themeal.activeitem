@@ -19,7 +19,7 @@
 		"lay" : {"scale" : 0.0225},
 		"lay2" : {"speed" : 0.8, "scale" : 0.02, "hover" : [0.25, -0.25]},
 		"fuego" : {"speed" : 2, "scale" : 0.0225},
-		"sub" : {"speed" : 0.75, "scale" : 0.0275, "hover" : [-0.375, 0.5]},
+		"sub" : {"speed" : 0.75, "scale" : 0.042, "hover" : [-0.875, 0.5]},
 		"soder" : {"speed" : 1.25, "scale" : 0.0475, "hover" : [-0.6875, -0.1875]}
 	}
 }

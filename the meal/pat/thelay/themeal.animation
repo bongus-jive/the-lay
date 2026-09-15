@@ -40,7 +40,7 @@
 				"default" : "h",
 				"states" : {
 					"h" : {
-						"frames" : 126,
+						"frames" : 63,
 						"cycle" : 2.52,
 						"mode" : "loop"
 					}
